@@ -1,0 +1,14 @@
+.cfssl
+config
+*.pem
+cleanup.sh
+drop
+*.egg-info
+*.pyc
+*.log
+thrift
+*.egg
+.idea
+deployer/produce
+tmp/
+behave_repo/
