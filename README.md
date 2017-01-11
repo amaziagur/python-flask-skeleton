@@ -9,6 +9,7 @@ run pip install -r requirments.txt
 run service -> python /skeleton_greeter/greeter.py
 
 call in rest client (GET) to - localhost:8080/greet -> you will get general greeting from service
+
 call in rest client (GET) to - localhost:8080/greet/{your_name} -> you will get personal greeting from service
 
 **between 14 to 16 @ noon time, server is sleeping so you will get zzz as a response :)
